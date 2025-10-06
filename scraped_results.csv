@@ -1,5 +1,5 @@
-Plate Number,Result
-NS797ZB,NONE
-NS787JI,NONE
-NS12345,NONE
-NS679JI,You currently have 3 tikets for parking in Novi Sad.
+email,plate_num,message
+user1@gmail.com,NS12346,You currently have no parking ticket for this car in Novi Sad.
+user2@gmail.com,NS12345,You currently have no parking ticket for this car in Novi Sad.
+user2@gmail.com,NS12347,You currently have 2 tiket/s for parking in Novi Sad.
+user3@gmail.com,NS12348,You currently have 3 tiket/s for parking in Novi Sad.
