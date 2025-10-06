@@ -4,6 +4,8 @@
 4. If the key-value pair has been updated, agent will send an email with the updates to the driver trough google mail service.
 5. Run these agents daily after 21:00h. This is when the parking people don't charge for parking anymore.
 
+![parkingservis](https://github.com/user-attachments/assets/d706fd0a-5dd3-44b7-bde1-b2500b021ad6)
+
 TODO:
-1. Until postgre is set up, local .csv will do.
+1. Until postgre is set up, local .csv will do. .csvs here on git are just for example.
 2. Use lambda to facilitate these agents. Use dynamodb to save hash results. Maybe even see if AWS has some free SMTP options.
