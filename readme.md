@@ -9,3 +9,4 @@
 TODO:
 1. Until postgre is set up, local .csv will do. .csvs here on git are just for example.
 2. Use lambda to facilitate these agents. Use dynamodb to save hash results. Maybe even see if AWS has some free SMTP options.
+   Until lambdas are set up, windows scheduler for daily tasks will suffice.
